@@ -1,4 +1,5 @@
 /client-py/
+out/
 *.bak
 *.code-workspace
 *.mk
